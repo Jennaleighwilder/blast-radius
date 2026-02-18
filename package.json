@@ -1,0 +1,26 @@
+{
+  "name": "blast-radius",
+  "version": "0.1.0",
+  "description": "See the blast radius of a code change before you touch it.",
+  "type": "module",
+  "bin": {
+    "blast-radius": "./src/cli.js"
+  },
+  "scripts": {
+    "demo": "node demo/run-demo.js && node demo/make-report.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "blast-radius",
+    "dependency",
+    "risk",
+    "impact",
+    "code-analysis"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ignore": "^5.3.0"
+  }
+}

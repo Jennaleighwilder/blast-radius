@@ -1,0 +1,5 @@
+node_modules/
+demo/tmp/
+demo/output/
+*.log
+.DS_Store
