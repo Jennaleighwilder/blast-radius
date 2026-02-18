@@ -4,3 +4,4 @@ demo/output/
 *.log
 .DS_Store
 *.tgz
+.npm-cache/
