@@ -31,5 +31,5 @@ See [DEMO.md](https://github.com/jenniferwest/blast-radius/blob/main/DEMO.md) fo
 
 ## Links
 
-- [GitHub](https://github.com/jenniferwest/blast-radius)
+- [GitHub](https://github.com/jenniferwest/blast-radius) (update if your repo is under a different account)
 - [npm](https://www.npmjs.com/package/blast-radius)
