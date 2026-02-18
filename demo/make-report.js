@@ -17,7 +17,7 @@ const REPO_LINKS = {
   'express': 'https://github.com/expressjs/express',
   'chalk': 'https://github.com/chalk/chalk',
   'query-string': 'https://github.com/sindresorhus/query-string',
-  'blast-radius': 'https://github.com/jenniferwest/blast-radius',
+  'blast-radius': 'https://github.com/Jennaleighwilder/blast-radius',
 };
 
 function main() {

@@ -27,9 +27,9 @@ npx blast-radius path/to/file
 
 ## Demo
 
-See [DEMO.md](https://github.com/jenniferwest/blast-radius/blob/main/DEMO.md) for live outputs from real open-source repos.
+See [DEMO.md](https://github.com/Jennaleighwilder/blast-radius/blob/main/DEMO.md) for live outputs from real open-source repos.
 
 ## Links
 
-- [GitHub](https://github.com/jenniferwest/blast-radius) (update if your repo is under a different account)
+- [GitHub](https://github.com/Jennaleighwilder/blast-radius)
 - [npm](https://www.npmjs.com/package/blast-radius)

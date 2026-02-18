@@ -31,12 +31,12 @@ sudo chown -R $(whoami) ~/.npm
 ## Step 3: Push to GitHub
 
 ```bash
-cd /Users/jenniferwest/blast-radius
+cd /Users/Jennaleighwilder/blast-radius
 git push -u origin main
 git push origin v0.1.0
 ```
 
-If your GitHub username is different from `jenniferwest`, update the remote first:
+If your GitHub username is different from `Jennaleighwilder`, update the remote first:
 
 ```bash
 git remote set-url origin https://github.com/YOUR_USERNAME/blast-radius.git
@@ -47,7 +47,7 @@ git remote set-url origin https://github.com/YOUR_USERNAME/blast-radius.git
 ## Step 4: npm Login & Publish
 
 ```bash
-cd /Users/jenniferwest/blast-radius
+cd /Users/Jennaleighwilder/blast-radius
 npm login
 # Complete browser login when prompted
 
@@ -79,7 +79,7 @@ You should see a formatted BLAST-RADIUS report.
 
 ## Step 6: Create GitHub Release
 
-1. Go to: **https://github.com/jenniferwest/blast-radius/releases/new**
+1. Go to: **https://github.com/Jennaleighwilder/blast-radius/releases/new**
 2. Tag: `v0.1.0`
 3. Title: `blast-radius v0.1.0`
 4. Description: Copy from `launch/release.md`
@@ -91,5 +91,5 @@ You should see a formatted BLAST-RADIUS report.
 
 After pushing, wait ~90 seconds. Check:
 
-- https://github.com/jenniferwest/blast-radius/actions
+- https://github.com/Jennaleighwilder/blast-radius/actions
 - DEMO.md should be auto-updated by the workflow

@@ -3,3 +3,4 @@ demo/tmp/
 demo/output/
 *.log
 .DS_Store
+*.tgz
